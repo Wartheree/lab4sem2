@@ -2,7 +2,6 @@
 // Created by danil on 27.03.2026.
 //
 #include <iostream>
-#include <vector>
 
 class School {
 private:
